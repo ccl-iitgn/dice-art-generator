@@ -11,7 +11,7 @@ let images = [];
 let running = false;
 
 function preload() {
-  img = loadImage("kunal-nayyar.jpg");
+  img = loadImage("gandhiji.png");
 }
 
 function setup() {
